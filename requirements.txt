@@ -1,0 +1,12 @@
+langchain
+google-generativeai
+langchain-google-genai
+openai
+streamlit
+python-dotenv
+PyPDF2
+langchain-community
+pdfminer.six
+chromadb
+pypdf
+faiss-cpu
